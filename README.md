@@ -1,1 +1,1 @@
-# lgtmtest
+Initial test for LGTM
